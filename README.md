@@ -6,5 +6,4 @@ Foi utilizado o webservice https://corona.lmao.ninja/docs/ que utiliza dados do 
 
 Este webservice é atualizado de 10 em 10 minutos e é alimentado por orgãos de saúde do mundo todo, para saber mais visite https://www.worldometers.info/coronavirus/
 
-Apresentação:
-
+Vídeo apresentação: https://www.linkedin.com/posts/activity-6675012987167760384-uIgP
